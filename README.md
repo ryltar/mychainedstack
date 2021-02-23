@@ -1,2 +1,3 @@
 # mychainedstack
-mychainedstack
+
+Blockchain school project
